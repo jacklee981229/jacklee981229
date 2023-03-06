@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to Jack's Repository.
+
+- 🔭 I'm currently working on [hexo site project](jacklee981229.github.io).
+- 🌱 I’m currently learning blogging and website creation.
+- ⚡ I’m currently exploring ChatGPT and other AI tools.
 
 <!--
 **jacklee981229/jacklee981229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
