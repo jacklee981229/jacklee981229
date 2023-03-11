@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to Jack's Repository.
 
-- 🔭 I'm currently working on [hexo site project](jacklee981229.github.io).
+- 🔭 I'm currently working on [jacklee981229.github.io](https://jacklee981229.github.io/).
 - 🌱 I’m currently learning blogging and website creation.
 - ⚡ I’m currently exploring ChatGPT and other AI tools.
 
